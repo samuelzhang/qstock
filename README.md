@@ -4,11 +4,11 @@ qstock由“Python金融量化”公众号开发，试图打造成个人量化�
 
 读者直接在cmd或anaconda prompt上输入“pip install qstock ”进行安装，或输入“pip install -upgrade qstock”进行更新。
 
-qstock是免费开源金融量化库，已在pypi官网和GitHub上发布，更新至1.3.4版本，添加了问财的数据访问功能，通过qstock.wencai('选股条件')调用。使用“pip install qstock ”进行安装，通过’pip install –upgrade qstock’进行更新。目前部分策略选股和策略回测功能仅供知识星球会员使用，会员可在知识星球置顶帖子上获取 qstock 的离线安装包。
+qstock是免费开源金融量化库，已在pypi官网和GitHub上发布，更新至1.3.5版本，添加了问财的数据访问功能，通过qstock.wencai('选股条件')调用。使用“pip install qstock ”进行安装，通过’pip install –upgrade qstock’进行更新。目前部分策略选股和策略回测功能仅供知识星球会员使用，会员可在知识星球置顶帖子上获取 qstock 的离线安装包。
 
 
 
-PyPI：https://pypi.org/project/qstock/1.3.4/
+PyPI：https://pypi.org/project/qstock/1.3.5/
 
 关于 qstock 更详细的使用方法，请参考微信公众号Python金融量化 qstock 专题系列文章：
 
