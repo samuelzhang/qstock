@@ -56,7 +56,7 @@ class WencaiCookie:
         self.json_path = os.path.dirname(__file__) + '/cookies.json'
 
     def getHeXinVByHttp(self):
-        with open(os.path.dirname(os.path.dirname(__file__)) + '\\data\\hexin.js', 'r') as f:
+        with open(os.path.dirname(os.path.dirname(__file__)) + '/data/hexin.js', 'r') as f:
             jscontent = f.read()
         context = execjs.compile(jscontent)
         return context.call("v")
